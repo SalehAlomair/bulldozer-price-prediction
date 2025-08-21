@@ -81,7 +81,7 @@ bulldozer-price-prediction/
   - `min_samples_leaf`: Minimum samples in leaf
   - `max_features`: Features considered for best split
 
-## 📊 Results
+## Results!
 
 The final optimized model achieved:
 - **Training RMSLE**: ~0.14
