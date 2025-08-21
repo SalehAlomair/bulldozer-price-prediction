@@ -106,7 +106,7 @@ pip or conda package manager
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/bulldozer-price-prediction.git
+git clone https://github.com/SalehAlomair/bulldozer-price-prediction.git
 cd bulldozer-price-prediction
 ```
 
